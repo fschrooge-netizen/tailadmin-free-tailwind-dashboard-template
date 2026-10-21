@@ -1,0 +1,47 @@
+{
+  "schema_version": 1,
+  "template_only": true,
+  "project_id": "s2-admin",
+  "owner_approval": "UNVERIFIED",
+  "region": "UNVERIFIED",
+  "jurisdiction": "UNVERIFIED",
+  "workload": {
+    "capabilities": [],
+    "data_classification": "UNVERIFIED",
+    "expected_calls_per_month": null,
+    "expected_input_tokens_per_call": null,
+    "expected_output_tokens_per_call": null,
+    "p95_latency_budget_ms": null,
+    "reliability_target": "UNVERIFIED",
+    "quality_criteria": []
+  },
+  "budget": {
+    "currency": "UNVERIFIED",
+    "approved_amount": 0,
+    "billing_authorized": false,
+    "reviewer": "UNVERIFIED"
+  },
+  "policies": {
+    "allowed_regions": [],
+    "allowed_providers": [],
+    "training_opt_in": false,
+    "pii_transfer_approved": false,
+    "commercial_license_verified": false,
+    "release_sop": "UNVERIFIED"
+  },
+  "provider_settings": {
+    "providers_enabled_by_default": false,
+    "primary_provider": "none",
+    "fallback_provider": "none",
+    "secret_ref": "UNVERIFIED",
+    "mode": "disabled",
+    "live_api_calls_approved": false
+  },
+  "review": {
+    "source_docs_verified": false,
+    "privacy_approved": false,
+    "security_approved": false,
+    "pilot_completed": false,
+    "production_approved": false
+  }
+}

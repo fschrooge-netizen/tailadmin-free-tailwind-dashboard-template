@@ -1,0 +1,53 @@
+{
+  "schema_version": 1,
+  "template_only": true,
+  "project_id": "s2-admin",
+  "generated_at": "UNVERIFIED",
+  "currency": "UNVERIFIED",
+  "candidates": [],
+  "candidate_record_template": {
+    "id": "REPLACE_CANDIDATE_ID",
+    "vendor": "UNVERIFIED",
+    "product": "UNVERIFIED",
+    "model_version": "UNVERIFIED",
+    "capabilities": [],
+    "audience": "UNVERIFIED",
+    "access_tier": "UNVERIFIED",
+    "hosting": "UNVERIFIED",
+    "license_type": "UNVERIFIED",
+    "official_documentation_url": "UNVERIFIED",
+    "pricing_url": "UNVERIFIED",
+    "license_url": "UNVERIFIED",
+    "terms_url": "UNVERIFIED",
+    "privacy_retention_url": "UNVERIFIED",
+    "authentication": "UNVERIFIED",
+    "regions": [],
+    "https_verified": false,
+    "rate_limits": "UNVERIFIED",
+    "pricing": {
+      "currency": "UNVERIFIED",
+      "unit": "UNVERIFIED",
+      "input_rate_per_million_tokens": null,
+      "output_rate_per_million_tokens": null,
+      "other_fees": "UNVERIFIED"
+    },
+    "evidence": {
+      "checked_at": "UNVERIFIED",
+      "claims": [],
+      "confidence": "UNVERIFIED",
+      "status": "UNVERIFIED"
+    },
+    "performance": {
+      "latency_p95_ms": null,
+      "quality_test": "NOT_TESTED",
+      "benchmark_environment": "UNVERIFIED"
+    },
+    "enabled": false,
+    "project_owner_approved": false,
+    "secret_ref": "UNVERIFIED",
+    "blockers": [
+      "NO_VERIFIED_ENTITLEMENT",
+      "NO_APPROVAL"
+    ]
+  }
+}
