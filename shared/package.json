@@ -1,0 +1,19 @@
+{
+  "name": "@s2tech/admin-shell",
+  "version": "0.1.0",
+  "description": "Framework-neutral S2 Admin application shell and theme tokens",
+  "type": "module",
+  "private": true,
+  "license": "MIT",
+  "exports": {
+    ".": "./browser/s2-admin.js",
+    "./styles.css": "./browser/s2-admin.css"
+  },
+  "files": [
+    "browser",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test tests/*.test.mjs"
+  }
+}
